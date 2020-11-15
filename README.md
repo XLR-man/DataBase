@@ -1,2 +1,2 @@
 # DataBase
-Database with log
+Database with logger
